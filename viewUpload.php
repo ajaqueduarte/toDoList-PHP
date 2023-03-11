@@ -7,7 +7,6 @@ if(!isset($_SESSION['userId'])){
 }
 include 'controller.php';
 ?>
-<!-- Student ID: 101400994-->
 <!doctype html>
 <html lang="en">
 <head>
