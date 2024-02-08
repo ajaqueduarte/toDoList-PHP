@@ -1,0 +1,3 @@
+- Web application using PHP, HTML and SQL where user can create account, log in and upload csv file with tasks
+- When task is completed, user can mark task as completed. 
+- User can view tasks remaining, task completed and access past files uploaded 
